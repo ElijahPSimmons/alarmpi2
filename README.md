@@ -2,6 +2,16 @@
 
 Edited by Elijah Simmons
 
+# Updates on skiwithpete/alarmpi
+
+Take the code that is out of date and update it to a working condition for what I want.  Goal: make an alarm clock with LEDs that simulate sunlight then play music into the weather for the day.
+
+# What I Learned
+
+* Customized coding for LEDs in python.
+* Understand code that has multiple contributers and be able to adapt it.
+* Use apis online in order to get information desired.
+
 The yahoo weather api now requires a 0Auth1 key through an account so I set up 
 an account with openweathermap api as I didn't want the other yahoo features of
 yahoo. With openweatherapi, all you need to do is change you zipcode and what

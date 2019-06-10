@@ -1,6 +1,6 @@
 # Welcome to the AlarmPi project.
 
-Editted by Elijah Simmons
+Edited by Elijah Simmons
 
 The yahoo weather api now requires a 0Auth1 key through an account so I set up 
 an account with openweathermap api as I didn't want the other yahoo features of

@@ -11,6 +11,7 @@ Take the code that is out of date and update it to a working condition for what 
 * Customized coding for LEDs in python.
 * Understand code that has multiple contributers and be able to adapt it.
 * Use apis online in order to get information desired.
+* Troubleshoot with libraries for the LEDs.
 
 The yahoo weather api now requires a 0Auth1 key through an account so I set up 
 an account with openweathermap api as I didn't want the other yahoo features of
@@ -22,6 +23,10 @@ BBC news was working but since I didn't want it I got rid of it from the config
 file as well.  
 Added Jurassic Park Theme song to the Music file and it plays before giving any
 other information or greeting.
+Added LED code from https://github.com/richardghirst/rpi_ws281x and adapted it to simulate a sunrise.
+    If it doesn't work right away here are the pages I used to get the LED code to work:
+      https://github.com/jgarff/rpi_ws281x/issues/358
+      https://github.com/jgarff/rpi_ws281x/issues/142
 
 If you are interested, skiwithpete did a lot of this work and I adapted it to 
 what I wanted to use.  I plan on setting up an led sequence to go 30 min
